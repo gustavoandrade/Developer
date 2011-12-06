@@ -67,9 +67,9 @@ return array(
 	 'db'=>array(
               'class'=>'application.extensions.PHPPDO.CPdoDbConnection',
               'pdoClass' => 'PHPPDO',
-              'connectionString'=>'oci:dbname=10.10.100.26/dvlatala',
-                'username'=>'telemedic',
-              'password'=>'teledes-0905'
+              'connectionString'=>'oci:dbname=10.10.100./example',
+                'username'=>'example',
+              'password'=>'example'
 ),
 
 
